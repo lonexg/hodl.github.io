@@ -1,7 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to LoneXG's rimworld githubpage
 
-
-1. Clone Repo
-2. Upload your itemlist.json and eventlist.json
-
-
+Here you can find the updated storeItems and edit them
